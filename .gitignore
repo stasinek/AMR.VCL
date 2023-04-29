@@ -1,7 +1,5 @@
 *.obj
 *.~*
-*.exe
-*.tds
 *.ils
 #ignore thumbnails created by windows
 Thumbs.db
@@ -31,7 +29,6 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.dll
 *.obj
-*.~*
 *.exe
 *.tds
 *.ils

@@ -24,7 +24,7 @@
     <USERDEFINES value="_DEBUG"/>
     <SYSDEFINES value="NO_STRICT"/>
     <MAINSOURCE value="RUNCloser.cpp"/>
-    <INCLUDEPATH value="..\..\FORM_TEMPLATES;..\..;..;$(BCB)\include;$(BCB)\include\vcl"/>
+    <INCLUDEPATH value="..\..\FORM_TEMPLATES;..\..\PACKAGES;$(BCB)\include;$(BCB)\include\vcl"/>
     <LIBPATH value="..\..\FORM_TEMPLATES;..\..\PACKAGES;$(BCB)\lib\obj;$(BCB)\lib"/>
     <WARNINGS value="-w-par -w-8027 -w-8026"/>
     <WARNOPTSTR value=""/>
@@ -48,12 +48,12 @@
   </LINKER>
   <IDEOPTIONS>
 [Version Info]
-IncludeVerInfo=0
+IncludeVerInfo=1
 AutoIncBuild=0
-MajorVer=1
+MajorVer=2
 MinorVer=0
 Release=0
-Build=0
+Build=100
 Debug=0
 PreRelease=0
 Special=0
@@ -63,11 +63,11 @@ Locale=1045
 CodePage=1250
 
 [Version Info Keys]
-CompanyName=
+CompanyName=SSTSOFT.pl
 FileDescription=
-FileVersion=1.0.0.0
+FileVersion=2.0.0.100
 InternalName=
-LegalCopyright=
+LegalCopyright=Stanislaw Stasiak
 LegalTrademarks=
 OriginalFilename=
 ProductName=
@@ -81,11 +81,12 @@ $(BCB)\Bin\dclocx50.bpl=Borland Sample Imported ActiveX Controls
 $(BCB)\Bin\bcb2kaxserver50.bpl=Borland C++Builder COM Server Components Sample Package
 
 [HistoryLists\hlIncludePath]
-Count=4
-Item0=..\..\FORM_TEMPLATES;..\..;..;$(BCB)\include;$(BCB)\include\vcl
-Item1=..\..\FORM_TEMPLATES;..\..;..\;$(BCB)\include;$(BCB)\include\vcl
-Item2=$(BCB)\include;$(BCB)\include\vcl
-Item3=$(BCB)\include;$(BCB)\include\vcl;..\..\classes
+Count=5
+Item0=..\..\FORM_TEMPLATES;..\..\PACKAGES;$(BCB)\include;$(BCB)\include\vcl
+Item1=..\..\FORM_TEMPLATES;..\..;..;$(BCB)\include;$(BCB)\include\vcl
+Item2=..\..\FORM_TEMPLATES;..\..;..\;$(BCB)\include;$(BCB)\include\vcl
+Item3=$(BCB)\include;$(BCB)\include\vcl
+Item4=$(BCB)\include;$(BCB)\include\vcl;..\..\classes
 
 [HistoryLists\hlLibraryPath]
 Count=5

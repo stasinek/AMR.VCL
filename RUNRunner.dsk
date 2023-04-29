@@ -11,16 +11,16 @@ File_8=SourceModule,'D:\My Projects\aktualne prc++\x86_libraries\SSTSOFT\compres
 File_9=SourceModule,'c:\program files\borland\cbuilder6\include\winerror.h',0,1,6084,48,6100,0,0
 
 [Modules]
-Module0=D:\OBSOLETE\PROGS\AMR.VCL\RUNRunner.bpr
+Module0=H:\Drive\My Projects\OBSOLETE\PROGS\AMR.VCL\RUNRunner.bpr
 Count=1
 EditWindowCount=1
 
-[D:\OBSOLETE\PROGS\AMR.VCL\RUNRunner.bpr]
+[H:\Drive\My Projects\OBSOLETE\PROGS\AMR.VCL\RUNRunner.bpr]
 ModuleType=SourceModule
 FormState=0
 FormOnTop=0
 
-[D:\OBSOLETE\PROGS\AMR.VCL\ProjectGroup1.bpg]
+[C:\SRC\ProjectGroup1.bpg]
 FormState=0
 FormOnTop=0
 
@@ -49,10 +49,10 @@ BottomPanelClients=MessageView@EditWindow0
 BottomPanelData=000004000000000055000000000000000000050000000000000100000000550000000B0000004D65737361676556696577FFFFFFFF
 
 [View0]
-Module=D:\OBSOLETE\PROGS\AMR.VCL\RUNRunner.cpp
+Module=H:\Drive\My Projects\OBSOLETE\PROGS\AMR.VCL\RUNRunner.cpp
 CursorX=1
-CursorY=101
-TopLine=89
+CursorY=1
+TopLine=1
 LeftCol=1
 
 [Watches]
@@ -73,8 +73,8 @@ Left=9
 Top=15
 Width=1271
 Height=105
-MaxLeft=-4
-MaxTop=-4
+MaxLeft=-1
+MaxTop=-1
 MaxWidth=1288
 MaxHeight=105
 ClientWidth=1280
@@ -95,6 +95,23 @@ ClientHeight=279
 TBDockHeight=303
 LRDockWidth=438
 Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=373
+Top=223
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=525
+ClientHeight=326
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
 
 [AlignmentPalette]
 Create=1

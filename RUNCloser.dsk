@@ -1,48 +1,56 @@
 [Closed Files]
-File_0=SourceModule,'D:\OBSOLETE\PROGS\AMR.VCL\Unit1.cpp',0,1,1,1,1,1,1
-File_1=SourceModule,'D:\stasiek\My Projects\prc++\OBSOLETE\PROGS\AMR.VCL\RUNCloser.bpr',0,1,1,1,1,0,0
-File_2=SourceModule,'K:\My Projects\prc++\OBSOLETE\PACKAGES\EXEINFO.CPP',0,1,1,1,1,0,0
-File_3=SourceModule,'K:\My Projects\prc++\OBSOLETE\PACKAGES\SYSTRAY.CPP',0,1,1,1,1,0,0
+File_0=SourceModule,'D:\stasiek\My Projects\OBSOLETE\PACKAGES\ADVBAR.CPP',0,1,1,1,1,0,0
+File_1=SourceModule,'D:\stasiek\My Projects\OBSOLETE\PACKAGES\advbar.h',0,1,1,1,7,0,0
+File_2=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\OBSOLETE\PACKAGES\ADVBAR.CPP',0,1,1,1,1,0,0
+File_3=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\OBSOLETE\PROGS\Panel.VCL\Zoom_frm.cpp',0,1,1,72,27,0,0
+File_4=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\OBSOLETE\PROGS\Panel.VCL\Zeus_frm.cpp',0,1,17,1,45,0,0
+File_5=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\OBSOLETE\PACKAGES\SYSTRAY.h',0,1,17,24,20,0,0
+File_6=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\OBSOLETE\PACKAGES\SYSTRAY.CPP',0,1,4,5,4,0,0
+File_7=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\OBSOLETE\PROGS\Panel.VCL\Unit4.cpp',0,1,1,1,1,0,0
+File_8=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\OBSOLETE\PROGS\Panel.VCL\Tips_frm.cpp',0,1,1,1,1,0,0
+File_9=SourceModule,'C:\Program Files\Borland\CBuilder5\Projects\OBSOLETE\PROGS\Panel.VCL\Size_frm.cpp',0,1,1,1,1,0,0
 
 [Modules]
-Module0=D:\OBSOLETE\PROGS\AMR.VCL\RUNCloser.bpr
-Module1=D:\OBSOLETE\PROGS\AMR.VCL\Unit1.dfm
-Count=2
+Module0=c:\program files\borland\cbuilder5\include\vcl\Controls.hpp
+Count=1
 EditWindowCount=1
+PackageWindowCount=1
 
-[D:\OBSOLETE\PROGS\AMR.VCL\RUNCloser.bpr]
+[c:\program files\borland\cbuilder5\include\vcl\Controls.hpp]
 ModuleType=SourceModule
 FormState=0
 FormOnTop=0
 
-[D:\OBSOLETE\PROGS\AMR.VCL\Unit1.dfm]
-ModuleType=SourceModule
+[H:\Drive\My Projects\OBSOLETE\PROGS\AMR.VCL\ProjectGroup1.bpg]
 FormState=0
 FormOnTop=0
 
-[D:\OBSOLETE\PROGS\AMR.VCL\ProjectGroup1.bpg]
+[H:\Drive\My Projects\OBSOLETE\PROGS\AMR.VCL\RUNCloser.bpr]
+FormState=0
+FormOnTop=0
+
+[C:\SRC\OBSOLETE\PACKAGES\dclusr50.bpk]
 FormState=0
 FormOnTop=0
 
 [EditWindow0]
-ViewCount=2
+ViewCount=1
 CurrentView=0
 View0=0
-View1=1
 MessageView=MessageView@EditWindow0
 Create=1
 Visible=1
 State=2
-Left=200
-Top=122
-Width=1080
-Height=502
+Left=365
+Top=171
+Width=915
+Height=482
 MaxLeft=-4
-MaxTop=100
+MaxTop=97
 MaxWidth=1288
-MaxHeight=676
+MaxHeight=679
 ClientWidth=1280
-ClientHeight=649
+ClientHeight=652
 LeftPanelSize=0
 RightPanelSize=0
 BottomPanelSize=0
@@ -50,18 +58,33 @@ BottomPanelClients=MessageView@EditWindow0
 BottomPanelData=00000400010000000B0000004D657373616765566965770000000000000000000000000000000000FFFFFFFF
 
 [View0]
-Module=D:\OBSOLETE\PROGS\AMR.VCL\RUNCloser.cpp
+Module=c:\program files\borland\cbuilder5\include\vcl\Controls.hpp
 CursorX=1
 CursorY=1
-TopLine=1
+TopLine=121
 LeftCol=1
 
-[View1]
-Module=D:\OBSOLETE\PROGS\AMR.VCL\Unit1.dfm
-CursorX=22
-CursorY=7
-TopLine=1
-LeftCol=1
+[PackageWindow0]
+Create=1
+Visible=0
+State=0
+Left=252
+Top=241
+Width=368
+Height=244
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=360
+ClientHeight=220
+TBDockHeight=244
+LRDockWidth=368
+Dockable=1
+StatusBar=0
+TextLabels=1
+Toolbar=1
+SectionWidth0=150
+SectionWidth1=210
+Module=C:\SRC\OBSOLETE\PACKAGES\dclusr50.bpk
 
 [Watches]
 Count=0
@@ -89,10 +112,10 @@ ClientHeight=78
 
 [ProjectManager]
 Create=1
-Visible=1
+Visible=0
 State=0
-Left=369
-Top=372
+Left=60
+Top=233
 Width=438
 Height=303
 MaxLeft=-1
@@ -103,9 +126,26 @@ TBDockHeight=303
 LRDockWidth=438
 Dockable=1
 
-[AlignmentPalette]
+[CPUWindow]
 Create=1
 Visible=0
+State=0
+Left=373
+Top=223
+Width=533
+Height=353
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=525
+ClientHeight=326
+DumpPane=79
+DisassemblyPane=187
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=1
 State=0
 Left=200
 Top=107
@@ -120,8 +160,8 @@ ClientHeight=60
 Create=1
 Visible=1
 State=0
-Left=0
-Top=359
+Left=29
+Top=271
 Width=190
 Height=381
 MaxLeft=-1
@@ -134,7 +174,7 @@ Dockable=1
 SplitPos=85
 ArrangeBy=Name
 SelectedItem=
-ExpandedItems=Anchors,Constraints
+ExpandedItems=Anchors,Constraints,Font,Font.Style
 HiddenCategories=Legacy
 ShowStatusBar=1
 
@@ -144,11 +184,11 @@ Visible=0
 State=0
 Left=12
 Top=0
-Width=850
+Width=1268
 Height=52
 MaxLeft=-1
 MaxTop=-1
-ClientWidth=850
+ClientWidth=1268
 ClientHeight=52
 TBDockHeight=52
 LRDockWidth=443
